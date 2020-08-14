@@ -1,3 +1,3 @@
 # website
 
-this is the code from Ari's website. Source code belongs to: https://html5up.net/
+this is the code for Ari's website. Source code belongs to: https://html5up.net/
